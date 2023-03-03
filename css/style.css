@@ -1,0 +1,118 @@
+@charset "UTF-8";
+body {
+  background-color: rgb(253, 177, 253);
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(255, 3, 112);
+  font-style: italic;
+}
+
+header {
+  color: blanchedalmond;
+  font-size: larger;
+}
+
+h2 {
+  color: rgb(255, 124, 1);
+}
+
+img {
+  display: block;
+}
+
+img {
+  width: 40%;
+  margin: auto;
+}
+
+nav {
+  width: 80% margin 0%;
+}
+
+li {
+  display: flex;
+  flex-direction: row;
+}
+
+input {
+  display: flex;
+  background-color: rgb(229, 128, 211);
+  width: 30%;
+  margin: 10px;
+}
+
+input {
+  display: flex;
+}
+
+h1 {
+  text-decoration: underline;
+  size: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 ¨envios¨ {
+  text-align: center;
+  margin: 20%;
+}
+
+p {
+  text-decoration: solid;
+  size: 100%
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(254, 13, 69);
+  text-align: center; 
+}
+
+ul {
+  display: block;
+}
+
+button {
+  background-color: rgb(255, 219, 148);
+  text-align: center; color:black;
+  width: 80%;
+  font-style: inherit;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1320px;
+  display: flex;
+}
+
+header {
+  background-color: rgb(253, 103, 188);
+  width: 30%;
+  display: flex;
+}
+
+.nav__link {
+  color: rgb(0, 0, 0);
+  display: flex;
+  grid-row: 150px;
+  text-decoration: aliceblue;
+  
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  height: 25vh;
+  width: 100%;
+}
+
+div.container {
+  color: rgb(225, 65, 134);
+  background: #ff28f4;
+}
+
+/*# sourceMappingURL=style.css.map */
